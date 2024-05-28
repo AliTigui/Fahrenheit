@@ -28,3 +28,4 @@ fn to_fahrenheit(degree: f32) -> f32 {
 fn to_celsius(degree: f32) -> f32 {
     degree - 32.0 * 5.0 / 9.0
 }
+// just fot test
